@@ -1,12 +1,13 @@
 header {
     text-align: center;
-    background: url('http://dash.ga.co/assets/jeff-bg.png');
-    background-size: cover;
+    background: url('/assets/images/th.jpg')
+    background-size;
     color: white;
-  }
-  a {
+}
+
+a {
     color: white;
-  }
+}
   h1 {
     font-size: 70px;
   }
@@ -28,6 +29,12 @@ header {
     padding: 20px;
     margin: 0 auto;
   }
+  
+
+
+
+
+
   @media (max-width: 500px) {
     h1 {
       font-size: 36px;
@@ -38,4 +45,3 @@ header {
       display: block;
     }
   }
-  
