@@ -1,7 +1,7 @@
 header {
     text-align: center;
-    background: url('/assets/images/th.jpg')
-    background-size;
+    background-image: url('/assets/images/th.jpg');
+    background-size: contain;
     color: white;
 }
 
